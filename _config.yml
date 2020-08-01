@@ -1,7 +1,7 @@
 ﻿# Header-菜单
 menu:
   主页: /
-  技术笔记: https://github.com/divinerapier/notes
+  # 技术笔记: https://github.com/divinerapier/notes
   # 随笔: /tags/随笔/
 
 # subNav-子导航
@@ -285,4 +285,4 @@ friends:
   #   url: https://blog.csdn.net/qq_30930805
 
 # 关于我
-aboutme: 咸鱼开发者
+aboutme: May the world be free of bugs.
